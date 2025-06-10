@@ -90,7 +90,7 @@ GEMINI_API_KEY=your_api_key_here
 ## 📫 Connect with Me
 
 Feel free to reach out for suggestions or collaboration!
-📧 [rahul.kumar@email.com](mailto:rahulsharma096115@gmail.com)
+📧 [rahulsharma096115@email.com](mailto:rahulsharma096115@gmail.com)
 🌐 [Portfolio](https://rahulsharmadev.netlify.app)
 💼 [LinkedIn](https://linkedin.com/in/yourhandle)
 
