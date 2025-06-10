@@ -1,4 +1,15 @@
+<h1 align="center">🧠 DSA Instructor AI</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTYwMjIyYTZmNzMxNjA2NDMzZDZkYTIzNzljZDE4ODQwYTcyNjZlNCZjdD1n/26BRv0ThflsHCqDrG/giphy.gif" alt="AI animation" width="300" />
+</p>
+
+<p align="center">
+  Your personal AI-powered DSA tutor built with 💻 HTML, Tailwind CSS & Gemini API.<br>
+  Designed to help students with clear explanations, code examples, and interactive support.
+</p>
+
+---
 ## 🚀 Live Demo
 
 👉 [Click here to try the app!](https://dsa-instructor-ai.netlify.app/)
